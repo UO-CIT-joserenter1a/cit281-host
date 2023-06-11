@@ -5,7 +5,7 @@
 <h3>CIT 281 - Web Application Development I</h3>
 <ul>
     <li><strong><a href="https://github.com/garnold-uo/cit-p1">Project 1: Introduction to CLI</a></strong></li>
-        <dl><a href="https://github.com/garnold-uo/cit281-lab1">    -   Lab 1 (Create first JS/node.js project)</a></dl>
+        <dl><a href="https://uo-cit-joserenter1a.github.io/cit281-lab1/">    -   Lab 1 (Create first JS/node.js project)</a></dl>
      <li><strong><a href="https://github.com/garnold-uo/cit281-p2">Project 2: CLI and VSCode</a></strong></li>
         <dl><a href="https://github.com/garnold-uo/cit281-lab2">    -   Lab 2 (Practice using CLI and git)</a></dl>
     <li><strong><a href="https://github.com/garnold-uo/cit281-p3">Project 3: Fastify coinage server</a></strong></li>    
